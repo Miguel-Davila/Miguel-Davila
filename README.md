@@ -1,8 +1,8 @@
 ### Hi there 👋,  I'm Miguel-Davila
-#### A passionate Full-stack developer from Colombia
-![A passionate Full-stack developer from Colombia](https://github.com/Miguel-Davila)
+#### 👨‍💻 A passionate full-stack developer from Colombia.
+(https://github.com/Miguel-Davila)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a self-taught programmer with great motivation to continue perfecting my skills and growing professionally, I fully trust my knowledge of the languages ​​learned over time
 
 Skills: JAVA /JS / SPRING BOOT/ HTML / CSS/MYSQL/DB2/GITHUB/JPA/JAVA EE/C/C#/C++/ANGULAR/MYSQL SEVER/JDNC/PYTHON/FLASK/
 
@@ -13,9 +13,8 @@ Skills: JAVA /JS / SPRING BOOT/ HTML / CSS/MYSQL/DB2/GITHUB/JPA/JAVA EE/C/C#/C++
 - ⚡ Fun fact: I adapt easily to changes and work splendidly in a team. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Miguel-Davila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-davila-7762611b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='udemy' height='40'>](https://www.udemy.com/user/miguel-angel-davila-caipa/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Miguel-Davila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-davila-7762611b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGmh%2BIM%2BhRoe1CJyO%2BM8lew%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='udemy' height='40'>](https://www.udemy.com/user/miguel-angel-davila-caipa/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Miguel-Davila)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Davila)](https://github.com/anuraghazra/github-readme-stats)
 
