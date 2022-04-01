@@ -4,7 +4,7 @@
 
 I am a self-taught programmer with great motivation to continue perfecting my skills and growing professionally, I fully trust my knowledge of the languages ​​learned over time
 
-Skills: JAVA /JS / SPRING BOOT/ HTML / CSS/MYSQL/DB2/GITHUB/JPA/JAVA EE/C/C#/C++/ANGULAR/MYSQL SEVER/JDNC/PYTHON/FLASK/
+Skills: JAVA /JS / SPRING BOOT/ HTML / CSS/MYSQL/DB2/GITHUB/JPA/JAVA EE/C/C#/C++/ANGULAR/MYSQL SEVER/JDBC/PYTHON/FLASK/
 
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on improve the companies code and find solutions to any problem required 
